@@ -1,7 +1,7 @@
 # HeadTraumaTriage
 A prehospital triage system to detect traumatic intracranial hemorrhage using machine learning algorithms
 
-This is a repository in which anyone can use our prediction model to detect traumatic intracranial hemorrhage in head trauma patients.
+This is a repository in which anyone can use our prediction models to detect traumatic intracranial hemorrhage in head trauma patients.
 
 Description to use this repository.
 1. If you are going to use the all-elements model, you need to over-write the "demo-data_for_all-elements_model" with your data, and implement "All-elements_model.py". You will get the probabilities of each data and you will also get the 1 or 0 result judged from the cut-off value which we set in our article.
