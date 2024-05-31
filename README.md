@@ -1,5 +1,5 @@
 # HeadTraumaTriage
-## Introdauction
+## Introduction
 This is a repository in which anyone can use our prediction models to detect traumatic intracranial hemorrhage in head trauma patients.
 
 ## Setup
